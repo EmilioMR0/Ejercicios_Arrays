@@ -1,0 +1,18 @@
+body{
+    background-color: #97E6F0;
+}
+input{
+    color: black;
+    background-color: #F0AED1;
+    font-size: medium;
+}
+input:hover{
+    color: black;
+    background-color: #F0EBC7;
+    font-size: medium;
+}
+#tablaEj1{
+    text-align: center;
+    margin: auto;
+    background-color: #F0AED1;
+}
